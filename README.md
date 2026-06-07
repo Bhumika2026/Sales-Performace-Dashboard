@@ -86,9 +86,7 @@ The dataset contains sales transaction records, including:
 * Develop customer retention strategies for high-value customers.
 * Monitor product profitability regularly to improve margins.
 
-## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ## Project Outcome
 
